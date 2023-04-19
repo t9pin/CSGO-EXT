@@ -33,7 +33,7 @@ AIMBOT - ESP - RADAR - MENU - KEYBINDS
 
 [2] Download and unzip (extract) the folder into any directory.
 
-[3] Launch csgoext.exe BEFORE opening CSGO.
+[3] Launch extcsgo.exe BEFORE opening CSGO.
 
 [4] Launch CSGO and load into desired game-mode, then press the inspect key.
 
